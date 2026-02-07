@@ -1,0 +1,40 @@
+{
+  "heroTitle": "Tworzę nowoczesne i interaktywne aplikacje webowe\nw React i TypeScript.",
+  "heroSubtitle": "Mieszkam w Warszawie. Skupiam się na UI/UX, architekturze komponentów oraz narzędziach produkcyjnych (Git, Vite, deployment).",
+  "available": "Dostępny do pracy jako Junior Frontend Developer",
+  "viewProjects": "Zobacz projekty",
+  "contact1": "Kontakt",
+  "downloadCV": "Pobierz CV",
+  "about": "O mnie",
+  "projects": "Projekty",
+  "skills": "Umiejętności",
+  "whoIAm": "Kim jestem",
+  "whoIAmText": "Jestem studentem IT skoncentrowanym na frontendzie. Lubię zamieniać wymagania w przejrzyste interfejsy i doprowadzać projekty od pomysłu do wdrożenia.",
+  "goal": "Do czego dążę",
+  "goal1": "Junior Frontend Developer (React / TypeScript)",
+  "goal2": "Zespół, który dba o jakość kodu i UX",
+  "goal3": "Prawdziwe produkty i realnych użytkowników",
+  "aboutTitle": "Kilka słów o mnie",
+  "projectsTitle": "Projekty",
+  "skillsTitle": "Umiejętności",
+  "aboutKicker": "O mnie",
+  "projectsKicker": "Projekty",
+  "skillsKicker": "Technologie",
+  "letsTalk": "Porozmawiamy",
+  "backToTop": "Powrót na górę",
+  "projectsNav": "Projekty",
+  "aboutNav": "O mnie",
+  "skillsNav": "Umiejętności",
+  "contactNav": "Kontakt",
+
+  "nav": {
+    "contact": "Kontakt",
+    "projects": "Projekty"
+  },
+  "contact": {
+    "title": "Zapoznamy się"
+  },
+  "buttons": {
+    "backToTop": "Wróć na górę"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "heroTitle": "I build modern, interactive web apps\nwith React & TypeScript.",
+  "heroSubtitle": "Based in Warsaw. Focused on UI/UX, component architecture, and production-ready tooling (Git, Vite, deployment).",
+  "available": "Available for Junior Frontend roles",
+  "viewProjects": "View projects",
+  "contact1": "Contact",
+  "downloadCV": "Download CV",
+  "about": "About",
+  "projects": "Projects",
+  "skills": "Skills",
+  "whoIAm": "Who I am",
+  "whoIAmText": "I’m an IT student focused on frontend development. I enjoy turning requirements into clean interfaces and shipping projects end-to-end.",
+  "goal": "What I'm aiming for",
+  "goal1": "Junior Frontend Developer (React / TypeScript)",
+  "goal2": "Teams that care about code quality and UX",
+  "goal3": "Real products, real users, real feedback",
+  "aboutTitle": "A little about me",
+  "projectsTitle": "Projects",
+  "skillsTitle": "Skills",
+  "aboutKicker": "About",
+  "projectsKicker": "Work",
+  "skillsKicker": "Toolkit",
+  "letsTalk": "Let's talk",
+  "backToTop": "Back to top",
+  "projectsNav": "Projects",
+  "aboutNav": "About",
+  "skillsNav": "Skills",
+  "contactNav": "Contact",
+  "nav": {
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "contact": {
+    "title": "Let’s talk"
+  },
+  "buttons": {
+    "backToTop": "Back to top"
+  }
+}
