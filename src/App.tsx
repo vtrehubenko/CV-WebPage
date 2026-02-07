@@ -52,7 +52,6 @@ function RevealSection(props: {
     <section
       id={props.id}
       ref={(node) => {
-        // TS-friendly ref assignment
         (ref as any).current = node;
       }}
       className={cx("section", isVisible && "reveal")}
@@ -127,7 +126,7 @@ export default function App() {
         ],
         stack: ["React", "TypeScript", "Vite", "dnd-kit", "CSS"],
         liveUrl: "https://taskflow-snowy-zeta.vercel.app",
-        repoUrl: "https://github.com/VolodyaLetov/taskflow",
+        repoUrl: "https://github.com/vtrehubenko/taskflow",
       },
       {
         title: "Job Tracker — Applications Manager",
@@ -141,7 +140,7 @@ export default function App() {
         ],
         stack: ["React", "JavaScript", "Vite", "REST-style data model"],
         liveUrl: "https://job-tracker-brown.vercel.app",
-        repoUrl: "https://github.com/VolodyaLetov/job-tracker",
+        repoUrl: "https://github.com/vtrehubenko/job-tracker",
       },
       {
         title: "JS Atari Asteroids — Arcade Game",
@@ -155,7 +154,7 @@ export default function App() {
         ],
         stack: ["JavaScript", "HTML5 Canvas", "CSS"],
         liveUrl: "https://js-atari-asteroid.vercel.app",
-        repoUrl: "https://github.com/VolodyaLetov/JS-Atari-Asteroid",
+        repoUrl: "https://github.com/vtrehubenko/JS-Atari-Asteroid",
       },
     ],
     [],
@@ -216,7 +215,9 @@ export default function App() {
           <div className="heroActions">
             <a className="btn primary">{t("viewProjects")}</a>
             <a className="btn">{t("contact1")}</a>
-            <a className="btn">{t("downloadCV")}</a>
+            <a className="btn" href="/Volodymyr_Trehubenko_CV.pdf">
+              {t("downloadCV")}
+            </a>
           </div>
 
           <div className="heroMeta">
