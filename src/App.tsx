@@ -133,10 +133,10 @@ export default function App() {
         description:
           "Track job applications with structured data, clean form UX, and simple state management.",
         highlights: [
-          "CRUD operations for applications",
-          "Form validation and better UX",
-          "Clear UI for fast scanning",
-          "Deployed to Vercel",
+          "Full CRUD with ownership validation",
+          "JWT authentication & protected routes",
+          "REST API with Express + Prisma ORM",
+          "Deployed to Vercel BackEnd API on Render",
         ],
         stack: ["React", "JavaScript", "Vite", "REST-style data model"],
         liveUrl: "https://job-tracker-brown.vercel.app",
