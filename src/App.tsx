@@ -139,8 +139,8 @@ export default function App() {
           "Deployed to Vercel BackEnd API on Render",
         ],
         stack: ["React", "JavaScript", "Vite", "REST-style data model"],
-        liveUrl: "https://job-tracker-brown.vercel.app",
-        repoUrl: "https://github.com/vtrehubenko/job-tracker",
+        liveUrl: "https://job-tracker-v2-omega.vercel.app",
+        repoUrl: "https://github.com/vtrehubenko/job-trackerV2",
       },
       {
         title: "JS Atari Asteroids — Arcade Game",
